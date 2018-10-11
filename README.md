@@ -1,4 +1,4 @@
-## GCP
+## GCPS
 
 Glacier Creek Sensor Node Redesign Project  
 Senior Capstone Project 2018-2019  
